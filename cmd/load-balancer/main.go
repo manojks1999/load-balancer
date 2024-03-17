@@ -9,10 +9,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/manojks1999/load-baalancer/pkg/config"
-	"github.com/manojks1999/load-baalancer/pkg/domain"
-	"github.com/manojks1999/load-baalancer/pkg/health"
-	"github.com/manojks1999/load-baalancer/pkg/strategy"
+	"github.com/manojks1999/load-balancer/pkg/config"
+	"github.com/manojks1999/load-balancer/pkg/domain"
+	"github.com/manojks1999/load-balancer/pkg/health"
+	"github.com/manojks1999/load-balancer/pkg/strategy"
 	log "github.com/sirupsen/logrus"
 )
 
